@@ -1,0 +1,557 @@
+
+
+
+
+@media all and (max-width: 600px) {
+    
+.home2{
+    display: flex; 
+    
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 12%;
+    padding-right: 12%;
+    background-color: #F5F5F5;
+}
+.home2 .card{
+    padding-top: 5%;
+    padding-bottom:5% ;
+    padding-left: 5%;
+    padding-right: 5%;
+    display: flex;
+    /* flex-direction: ro; */
+    justify-content: space-evenly;
+    align-items:center;
+}
+.home2 .card .right{
+   
+    width: 100%;
+
+}
+.home2 .card .right .phd{
+   width: 80%;
+    display: flex;
+    justify-content: space-between;
+    
+    
+
+}
+.home2 .card .right .phd img{
+    width: 80%;
+     display: flex;
+     justify-content: space-between;  
+ 
+ }
+.home2 .card .left{
+   
+    width: 100%;
+
+}
+
+.home3 .cards .custom.card {
+    
+    width: 100% !important;
+}
+
+.layer .home4{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.layer .home4 .box{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.home5{
+    padding-right: 5%;
+    padding-left: 5%; 
+    /* padding:10% ;  */
+}
+.home5 .cards .card{
+    width:100% !important;
+}
+
+
+
+.layer2 .home6 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    /* padding-top: 20%; */
+}
+.layer2 .home6 .layer22 .carousel-inner .l3{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+    padding-top: 20% ;
+    padding-bottom: 50% ;
+}
+.home7 .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.card.w {
+    margin-bottom: 3% ;
+    width: 100% !important;
+
+   
+}
+
+.layer8 .home8 .all{
+    flex-direction: column;
+    width: 100%;
+}
+.layer8 .home8 .all .left{
+    width: 100%;
+    padding-bottom: 0% !important;
+}
+
+.layer8 .home8 .all .right{
+    width: 100%;
+    padding-top: 1% !important;
+    padding-left: 0% !important;
+    padding-right: 0% !important;
+    position: relative;
+}
+.formC{
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    /* padding-bottom: 0%; */
+}
+#title{
+    position: relative;
+}
+#title::after{
+    content: '';
+    /* background-color: #000000; */
+    /* width: 110px; */
+    /* padding: 20; */
+    /* border-radius: 5px; */
+    /* height: 5px; */
+    top:100% ;
+    left: 5.8% ;
+    position:relative;
+
+}
+
+#title2::after{
+    content: '';
+    /* background-color: #000000; */
+    /* width: 110px; */
+    /* padding: 20; */
+    /* border-radius: 5px; */
+    /* height: 5px; */
+    top:85% ;
+    left: 4% ;
+    position:relative;
+
+}
+
+
+}
+
+
+
+
+
+@media only screen and (min-width: 601px) and (max-width: 768px) {
+    .home2{
+        display: flex; 
+        
+        padding-top: 5%;
+        padding-bottom: 5%;
+        padding-left: 12%;
+        padding-right: 12%;
+        background-color: #F5F5F5;
+    }
+    .home2 .card{
+        padding-top: 5%;
+        padding-bottom:5% ;
+        padding-left: 10%;
+        padding-right: 5%;
+        display: flex;
+        /* flex-direction: ro; */
+        justify-content: space-evenly;
+        align-items:center;
+    }
+    .home2 .card .right{
+       
+        width: 100%;
+    
+    }
+    .home2 .card .right .phd{
+       width: 80%;
+        display: flex;
+        justify-content: space-between;
+        
+        
+    
+    }
+    .home2 .card .right .phd img{
+        width: 80%;
+         display: flex;
+         justify-content: space-between;  
+     
+     }
+    .home2 .card .left{
+       
+        width: 100%;
+    
+    }
+    .home3 .cards{
+    
+        display: flex;
+        /* flex-direction: column; */
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        padding: 0%;
+    }
+    
+    .home3 .cards .custom.card {
+    
+        width: 48% !important;
+    }
+
+    .home7 .container{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    
+    .card.w {
+        margin-bottom: 3% ;
+        width: 100% !important;
+    
+       
+    } 
+    .layer8 .home8 .all{
+        width: 100% !important;
+        flex-direction: column;
+    }
+    .layer8 .home8 .all .left{
+        width: 100% !important;
+    }
+    
+    .layer8 .home8 .all .right{
+        padding-left: 0 !important;
+        width: 100% !important;
+    }
+    .layer2 .home6 .layer22 .carousel-inner .l3{
+        display: flex;
+        flex-direction: column;
+        /* align-items: center; */
+        justify-content: center;
+        padding-top: 15% ;
+        padding-bottom: 30% ;
+    }
+    
+#title::after{
+    content: '';
+    background-color: #ffffff;
+    width: 110px;
+    border-radius: 5px;
+    height: 5px;
+    top: 85%;
+    left: 4.5%;
+    position: absolute;
+
+}
+
+#title2::after{
+    content: '';
+    background-color: #ffffff;
+    width: 110px;
+    border-radius: 5px;
+    height: 5px;
+    top: 80%;
+    left: 2.7%;
+    position: absolute;
+
+}
+    
+    
+
+}
+
+
+
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+
+    .home2{
+        display: flex; 
+        
+        padding-top: 5%;
+        padding-bottom: 5%;
+        padding-left: 5%;
+        padding-right: 5%;
+        background-color: #F5F5F5;
+    }
+    .home2 .card{
+        padding-top: 5%;
+        padding-bottom:5% ;
+        padding-left: 5%;
+        padding-right: 5%;
+        display: flex;
+        /* flex-direction: row; */
+        justify-content: space-around;
+        align-items:center;
+    }
+    .home2 .card .right{
+       
+        width:100%;
+    
+    }
+    .home2 .card .right .phd{
+       width: 80%;
+        display: flex;
+        justify-content: space-around;
+        
+        
+    
+    }
+    .home2 .card .right .phd img{
+        width: 80%;
+         display: flex;
+         /* justify-content: space-between;   */
+     
+     }
+    .home2 .card .left{
+       
+        width: 100%;
+    
+    }
+
+    .home3 .cards{
+    
+        display: flex;
+        /* flex-direction: column; */
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        padding: 0%;
+    }
+    
+    .home3 .cards .custom.card {
+    
+        width: 48% !important;
+    }
+    .layer2 .home6 .layer22 .carousel-inner .l3{
+        display: flex;
+        flex-direction: column;
+        /* align-items: center; */
+        justify-content: center;
+        padding-top: 15% ;
+        padding-bottom: 20% ;
+    }
+
+    
+.layer8 .home8 .all{
+    flex-direction: column;
+    width: 100%;
+}
+.layer8 .home8 .all .left{
+    width: 100%;
+    padding-bottom: 0% !important;
+}
+
+.layer8 .home8 .all .right{
+    width: 100%;
+    padding-top: 1% !important;
+    padding-left: 0% !important;
+    padding-right: 0% !important;
+    position: relative;
+}
+
+.formC{
+    padding-top: 2% ;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 0%;
+}
+#title{
+    position: relative;
+}
+#title::after{
+    content: '';
+    background-color: #000000;
+    /* width: 110px; */
+    /* padding: 20; */
+    /* border-radius: 5px; */
+    /* height: 5px; */
+    top:100% ;
+    left: 6% ;
+    position:relative;
+
+}
+#title2::after{
+    content: '';
+    background-color: #000000;
+    /* width: 110px; */
+    /* padding: 20; */
+    /* border-radius: 5px; */
+    /* height: 5px; */
+    top:80% ;
+    left: 3% ;
+    position:relative;
+
+}
+
+    
+    
+}
+
+@media only screen and (min-width: 993px) {
+   
+.home2{
+    display: flex; 
+    
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #F5F5F5;
+}
+.home2 .card{
+    padding-top: 5%;
+    padding-bottom:5% ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items:center;
+}
+.home2 .card .right{
+   
+    width:50%;
+
+}
+.home2 .card .right .phd{
+   width: 80%;
+    display: flex;
+    justify-content: space-between;
+    
+    
+
+}
+.home2 .card .right .phd img{
+    width: 80%;
+     display: flex;
+     justify-content: space-between;  
+ 
+ }
+.home2 .card .left{
+   
+    width: 40%;
+
+}
+.layer .home4{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.layer .home4 .box{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.home5{
+    padding-right: 10%;
+    padding-left: 10%;   
+}
+.home5 .cards .card{
+    width:30% !important;
+}
+
+.layer2 .home6 .layer22 .carousel-inner .l3{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+    padding-top: 3% ;
+    padding-bottom: 13% ;
+}
+
+.formC{
+    padding-top: 2%;
+    padding-left: 3%;
+    
+}
+
+
+#title::after{
+    content: '';
+    background-color: #ffffff;
+    width: 110px;
+    border-radius: 5px;
+    height: 5px;
+    top: 100%;
+    left: 4%;
+    position: absolute;
+
+}
+
+#title2::after{
+    content: '';
+    background-color: #ffffff;
+    width: 110px;
+    border-radius: 5px;
+    height: 5px;
+    top: 85%;
+    left: 3%;
+    position: absolute;
+
+}
+
+
+}
+
+
+    
+
+
+/* 
+@media all and (min-width: 601px) and (max-width: 768px) {
+    .home2 .card .right{
+        
+        width: 40%;
+    
+    }
+    .home2 .card .left{
+        
+    width: 40%;
+
+}
+}
+
+@media all and (min-width: 769px) and (max-width: 992px) {
+    .home2 .card .right{
+      
+        width: 50%;
+    
+    }
+    .home2 .card .left{
+      
+
+    width: 50%;
+
+}
+}
+
+
+@media all and (min-width: 993px) {
+    .home2 .card .right{
+      
+        width: 50%;
+    
+    }
+    .home2 .card .left{
+      
+
+    width: 50%;
+
+}
+} */
